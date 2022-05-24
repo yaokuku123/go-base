@@ -1,0 +1,10 @@
+hello go:0
+#####
+hello go:1
+#####
+hello go:2
+#####
+hello go:3
+#####
+hello go:4
+#####
